@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppMaravillasMundo</string>
+    <string name="title_activity_maps1">MapsActivity1</string>
+
+    <string name="android_sdk_places_api_key">AIzaSyAD0FodKE5cqSti098WHPMv-GY9bE2p2oU</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
